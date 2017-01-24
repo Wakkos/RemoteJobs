@@ -10,3 +10,6 @@
 - [Authentic jobs](https://authenticjobs.com/#remote=true)
 - [Workfrom](http://www.workfrom.co)
 - [Jobspresso](https://jobspresso.co/)
+- [WorkRemotely](https://workremotely.io/)
+- [Working Nomads](https://www.workingnomads.co/jobs)
+- [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/)
