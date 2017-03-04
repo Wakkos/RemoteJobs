@@ -14,3 +14,5 @@
 - [Working Nomads](https://www.workingnomads.co/jobs)
 - [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/)
 - [Who is Hiring?](https://whoishiring.io)
+- [Jobscribe](http://jobscribe.com/)
+- [Remote.Co?](https://remote.co/)
