@@ -16,3 +16,4 @@
 - [Who is Hiring?](https://whoishiring.io)
 - [Jobscribe](http://jobscribe.com/)
 - [Remote.Co?](https://remote.co/)
+- [Remote stash](http://remotestash.co/jobs?category=job_board) - A hand-picked directory of the best websites to find remote jobs
