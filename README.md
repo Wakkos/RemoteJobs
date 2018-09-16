@@ -14,7 +14,7 @@
 - [Working Nomads](https://www.workingnomads.co/jobs)
 - [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/)
 - [Who is Hiring?](https://whoishiring.io)
-- [Jobscribe](http://jobscribe.com/)
+- [Jobscribe](https://jobscribe.co.nz)
 - [Remote.Co?](https://remote.co/)
 
 The following sites have no search or filters option. So, I made a search in Google with the `site:domain.com + remote UI developer` and the search has only results from the last week, just change UI developer with your job title and adapt the time in the google *tools* option - last week should be OK, tho -.
