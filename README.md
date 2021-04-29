@@ -16,6 +16,7 @@
 - [Working Nomads](https://www.workingnomads.co/jobs)
 - [Frontenddeveloperjob](http://frontenddeveloperjob.com/)
 - [Weworkremotely](https://weworkremotely.com)
+- [Freelancer](freelancer.com)
 - [Doméstika](https://www.domestika.org/es/jobs/where/remote) - Most of the jobs are from Spain, but also, most of it are in english.
 
 The following sites have no search or filters option. So, I made a search in Google with the `site:domain.com + remote UI developer` and the search has only results from the last week, just change UI developer with your job title and adapt the time in the google *tools* option - last week should be OK, tho -.
