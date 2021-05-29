@@ -4,6 +4,7 @@
 - [FreshRemote.work](https://freshremote.work/)
 - [GitHub jobs](https://jobs.github.com/positions?description=&location=remote) - They have a remote option to filter.
 - [Jobscribe](https://jobscribe.co.nz)
+- [DailyRemote](https://dailyremote.com)
 - [Jobspresso](https://jobspresso.co/)
 - [Remote.Co?](https://remote.co/)
 - [RemoteHub](https://remotehub.io) - Learn about remote companies (remote locations, engineering cultures, benefits, jobs, and more)
