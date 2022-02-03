@@ -3,6 +3,7 @@
 - [Basecamp Jobs](https://basecamp.com/jobs) - Basecamp is well know for having a successful remote team.
 - [FreshRemote.work](https://freshremote.work/)
 - [GitHub jobs](https://jobs.github.com/positions?description=&location=remote) - They have a remote option to filter.
+- [Himalayas](https://himalayas.app)
 - [Jobscribe](https://jobscribe.co.nz)
 - [DailyRemote](https://dailyremote.com)
 - [Jobspresso](https://jobspresso.co/)
