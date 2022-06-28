@@ -11,7 +11,7 @@
 - [RemoteOK](https://remoteok.io)
 - [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/)
 - [Remotive](http://jobs.remotive.io/)
-- [StackOverflow](https://stackoverflow.com/jobs?allowsremote=True)
+- [Hotfixo](https://hotfixo.com/remote-jobs)
 - [Transformity](https://www.transformify.org)
 - [Who is Hiring?](https://whoishiring.io)
 - [WorkRemotely](https://workremotely.io/)
