@@ -1,23 +1,12 @@
 # RemoteJobs
-- [Authentic jobs](https://authenticjobs.com/#remote=true)
-- [Basecamp Jobs](https://basecamp.com/jobs) - Basecamp is well know for having a successful remote team.
-- [FreshRemote.work](https://freshremote.work/)
-- [GitHub jobs](https://jobs.github.com/positions?description=&location=remote) - They have a remote option to filter.
-- [Jobscribe](https://jobscribe.co.nz)
+- [Authentic jobs](https://authenticjobs.com/#remote=true) - Mustly U.S. based but at least they mention the location on the headline.
 - [DailyRemote](https://dailyremote.com)
-- [Jobspresso](https://jobspresso.co/)
-- [Remote.Co?](https://remote.co/)
-- [RemoteHub](https://remotehub.io) - Learn about remote companies (remote locations, engineering cultures, benefits, jobs, and more)
-- [RemoteOK](https://remoteok.io)
-- [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/)
+- [Remote.Co](https://remote.co/)
+- [Remote OK](https://remoteok.io)
 - [Remotive](http://jobs.remotive.io/)
-- [StackOverflow](https://stackoverflow.com/jobs?allowsremote=True)
-- [Transformity](https://www.transformify.org)
 - [Who is Hiring?](https://whoishiring.io)
-- [WorkRemotely](https://workremotely.io/)
-- [Workfrom](http://www.workfrom.co)
 - [Working Nomads](https://www.workingnomads.co/jobs)
-- [Frontenddeveloperjob](http://frontenddeveloperjob.com/)
+- [Eu Remote Jobs](https://euremotejobs.com/jobs/)
 - [Weworkremotely](https://weworkremotely.com)
 - [Doméstika](https://www.domestika.org/es/jobs/where/remote) - Most of the jobs are from Spain, but also, most of it are in english.
 
@@ -32,3 +21,7 @@ The following sites have no search or filters option. So, I made a search in Goo
 - [Remotive.io](https://www.google.es/search?q=site:remotive.io+%2B+remote+ui+developer&safe=off&source=lnt&tbs=qdr:m&sa=X&ved=0ahUKEwjT8P2LovPaAhULuRQKHf1MAqEQpwUIIA&biw=1920&bih=949)
 - [Smartrecruiters.com](https://www.google.es/search?q=site:.smartrecruiters.com+%2B+remote+ui+developer&safe=off&source=lnt&tbs=qdr:w&sa=X&ved=0ahUKEwjHhtivkvPaAhWB1xQKHYcjD24QpwUIIA&biw=1920&bih=949)
 - [Workable.com](https://www.google.es/search?q=site:workable.com+%2B+remote+ui+developer&safe=off&source=lnt&tbs=qdr:w&sa=X&ved=0ahUKEwjwkfL8oI_cAhUEthQKHRvDA6MQpwUIIA&biw=1920&bih=947)
+
+
+### Aggregators
+- [FreshRemote.work](https://freshremote.work/)
