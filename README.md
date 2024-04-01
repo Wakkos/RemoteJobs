@@ -1,5 +1,6 @@
 # RemoteJobs
 - [Authentic jobs](https://authenticjobs.com/#remote=true) - Mustly U.S. based but at least they mention the location on the headline.
+- [Bing Pros](https://www.bing.com/pros/onboarding?utmsource=fbrep&mkt=en-us) - U.S. based gig service platform that connects Bing Search users to providers who want higher profit for their services.
 - [DailyRemote](https://dailyremote.com)
 - [Remote.Co](https://remote.co/)
 - [Remote OK](https://remoteok.io)
