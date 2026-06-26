@@ -27,4 +27,5 @@ The following sites have no search or filters option. So, I made a search in Goo
 
 
 ### Aggregators
+- [Meridian](https://meridianremote.com/) - Remote tech jobs matched to your timezone for US, LATAM, and EU; aggregated and deduplicated from top boards and ATS feeds.
 - [FreshRemote.work](https://freshremote.work/)
