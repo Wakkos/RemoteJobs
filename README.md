@@ -7,6 +7,7 @@
 - [Who is Hiring?](https://whoishiring.io)
 - [Working Nomads](https://www.workingnomads.co/jobs)
 - [Eu Remote Jobs](https://euremotejobs.com/jobs/)
+- [EuroJobs.ai](https://eurojobs.ai/) - 28,000+ IT jobs across Europe aggregated hourly from employers' own career pages (Greenhouse, Lever, Ashby, Workable). Filters for visa sponsorship, remote, country and English-speaking teams. Free, no account.
 - [Weworkremotely](https://weworkremotely.com)
 - [Doméstika](https://www.domestika.org/es/jobs/where/remote) - Most of the jobs are from Spain, but also, most of it are in english.
 - [Otta](https://otta.com/)
